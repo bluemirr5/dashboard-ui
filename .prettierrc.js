@@ -4,6 +4,6 @@ module.exports = {
   jsxBracketSameLine: true,
   bracketSpacing: true,
   semi: true,
-  printWidth: 100,
+  printWidth: 120,
   htmlWhitespaceSensitivity: "ignore",
 };
