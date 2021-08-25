@@ -12,6 +12,9 @@
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "baseUrl": ".",
+    "typeRoots":[
+      "element-plus/**/*.d.ts"
+    ],
     "types": [
       "webpack-env"
     ],
